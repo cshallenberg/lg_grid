@@ -40,7 +40,7 @@ const sounds = {
     31: 'body1C.mp3',
     32: 'birds1.mp3',
     33: '4singingpark.mp3',
-    34: 'body1D',
+    34: 'body1D.mp3',
     35: 'Tiergarten.mp3',
     36: 'scale.mp3'
 }; 
